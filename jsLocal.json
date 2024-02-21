@@ -1,0 +1,32 @@
+{
+  "classifier": [
+    {
+      "guid": "51c4733f-7cf0-4c94-8976-ea93642b6e5c",
+      "title": "imobil"
+    },
+    {
+      "guid": "78ea9c16-7429-46a6-9c5d-c8afdc3244d7",
+      "title": "transport"
+    }
+  ],
+  "entity": [
+    {
+      "guid": "b86cffe4-1626-4745-a075-d46b4f7992b1",
+      "title": "Apartament, cu 3 camere",
+      "typeGuid": "51c4733f-7cf0-4c94-8976-ea93642b6e5c",
+      "description": "mun.Chisinau, sec.Centru, bloc nou, etajul 3"
+    },
+    {
+      "guid": "0e85e0dd-708e-4d16-aefa-8efdb4fdbce9",
+      "title": "Casa de locuit",
+      "typeGuid": "51c4733f-7cf0-4c94-8976-ea93642b6e5c",
+      "description": "mun.Chisinau, sat.Truseni, 2 nivele"
+    },
+    {
+      "guid": "216c2b97-8cfc-4972-89d0-a2e82515f5fd",
+      "title": "Toyota RAV4",
+      "typeGuid": "78ea9c16-7429-46a6-9c5d-c8afdc3244d7",
+      "description": "anul:2019, combustibil:motorina, locuri:5"
+    }
+  ]
+}
